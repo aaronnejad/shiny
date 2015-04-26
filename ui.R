@@ -1,5 +1,8 @@
 library(shiny)
 
+# Important note. Make sure that the data folder, server.R ui.R and helpers.R are in the current 
+# working directory. Makke sure that the data folder has the counties file in it. 
+
 # Please note that the figures in this shiny application will not be correct so please do not make any investment decisions 
 #based on these results. I have talen a file with ethnic figures of each county and pretended that they are measures of GDP.
 #I did this because I dont have actual GDP figures for each county.
